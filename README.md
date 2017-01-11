@@ -3,7 +3,7 @@ Camel Restlet
 =======================================
 Platform support
 ·     Jetty or Tomcat 7 or 8
-·     JDK 7 or 8
+·     JDK 8
  
  
 Compile: mvn clean install 
