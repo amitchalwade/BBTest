@@ -1,4 +1,3 @@
-# BBTest
 Camel Restlet 
 =======================================
 Platform support
